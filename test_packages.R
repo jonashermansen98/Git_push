@@ -1,2 +1,2 @@
 library(RPostgres)
-library(tidyverse) #nej 
+library(tidyverse)
